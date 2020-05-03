@@ -7,7 +7,7 @@ import re
 
 from spellCorrector import SymSpell
 from itertools import chain
-from nltk.metrics.distance import jaro_similarity, jaro_winkler_similarity
+from nltk.metrics.distance import jaro_similarity
 
 # Suppress warnings 
 import warnings
